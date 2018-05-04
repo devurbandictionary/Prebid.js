@@ -7,5 +7,6 @@
   "audienceNetworkBidAdapter",
   "sonobiBidAdapter",
   "rhythmoneBidAdapter",
-  "consumableBidAdapter"
+  "consumableBidAdapter",
+  "pubmaticBidAdapter"
 ]
